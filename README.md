@@ -9,18 +9,38 @@ A collection of web development resources.
 </h1>
 
 ## Contents
-- [Editor](#desktop-applications)
-- [Javascript Framework](#javascript-framework)
+- [IDE](#ide)
+- [Editor](#editor)
 - [CSS](#css)
-- [NPM Packages](#npm-packages)
+- [Javascript Framework](#javascript-framework)
+- [Node.js](#nodejs)
 - [Mockup](#mockup)
 - [Icon](#icon)
 - [MISC.](#misc)
 
-## Editor
-- [NW.js](http://nwjs.io)
-- [Electron](http://electron.atom.io)  
+## <a id="ide"></a>IDE
+- [Webstorm](https://www.jetbrains.com/webstorm/)
+- [Aptana](http://www.aptana.com)
 
-## Javascript Framework
+## <a id="editor"></a>Editor
+- [Notepad++](http://notepad-plus-plus.org)
+- [Sublime Text 3](http://sublimetext.com)
+- [Atom](http://atom.io)
+- [Bracket](http://brackets.io)
+- [Visual Studio Code](https://code.visualstudio.com)
+
+## <a id="css"></a>CSS
+- [CSSICON](http://cssicon.space)  
+- [Animate.css](https://daneden.github.io/animate.css/)
+- [Normalize.css](https://necolas.github.io/normalize.css/)
+- [SASS](http://sass-lang.com)
+- [LESS](http://lesscss.org)
+- [PostCSS](http://postcss.org)
+
+## <a id="javascript-framework"></a>Javascript Framework
   
-## CSS
+## <a id="nodejs"></a>Node.js
+
+## <a id="icon"></a>Icon
+
+## <a id="misc"></a>MISC.
