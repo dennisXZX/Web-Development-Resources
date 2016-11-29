@@ -1,4 +1,4 @@
-# WebDevelopmentResources
+# Web Development Resources
 A collection of web development resources.
 
 <h1 align="center">
