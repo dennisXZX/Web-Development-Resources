@@ -38,8 +38,10 @@ A collection of web development resources.
 - [PostCSS](http://postcss.org)
 
 ## <a id="javascript-framework"></a>Javascript Framework
+- [Vue.js](https://vuejs.org)
   
 ## <a id="nodejs"></a>Node.js
+- [live-server](https://github.com/tapio/live-server)
 
 ## <a id="icon"></a>Icon
 
