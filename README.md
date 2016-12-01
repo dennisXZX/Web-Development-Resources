@@ -46,3 +46,4 @@ A collection of web development resources.
 ## <a id="icon"></a>Icon
 
 ## <a id="misc"></a>MISC.
+- [Lorem Ipsum](http://www.lipsum.com)
