@@ -11,8 +11,9 @@ A collection of web development resources.
 ## Contents
 - [IDE](#ide)
 - [Editor](#editor)
+- [HTML](#html)
 - [CSS](#css)
-- [Javascript Framework](#javascript-framework)
+- [Javascript](#javascript)
 - [Node.js](#nodejs)
 - [Mockup](#mockup)
 - [Icon](#icon)
@@ -29,6 +30,10 @@ A collection of web development resources.
 - [Bracket](http://brackets.io)
 - [Visual Studio Code](https://code.visualstudio.com)
 
+## <a id="html"></a>HTML
+- [Bootstrap](http://getbootstrap.com)
+
+
 ## <a id="css"></a>CSS
 - [CSSICON](http://cssicon.space)  
 - [Animate.css](https://daneden.github.io/animate.css/)
@@ -37,10 +42,12 @@ A collection of web development resources.
 - [LESS](http://lesscss.org)
 - [PostCSS](http://postcss.org)
 
-## <a id="javascript-framework"></a>Javascript Framework
+## <a id="javascript"></a>Javascript
 - [Vue.js](https://vuejs.org)
+- [handlebars](http://handlebarsjs.com)
   
 ## <a id="nodejs"></a>Node.js
+- [Express](http://expressjs.com)
 - [nodemon](https://nodemon.io)
 - [live-server](http://tapiov.net/live-server/)
 
