@@ -41,7 +41,8 @@ A collection of web development resources.
 - [Vue.js](https://vuejs.org)
   
 ## <a id="nodejs"></a>Node.js
-- [live-server](https://github.com/tapio/live-server)
+- [nodemon](https://nodemon.io)
+- [live-server](http://tapiov.net/live-server/)
 
 ## <a id="icon"></a>Icon
 
