@@ -48,6 +48,7 @@ A collection of web development resources.
   
 ## <a id="nodejs"></a>Node.js
 - [Express](http://expressjs.com)
+- [Passport](http://passportjs.org)
 - [nodemon](https://nodemon.io)
 - [live-server](http://tapiov.net/live-server/)
 
