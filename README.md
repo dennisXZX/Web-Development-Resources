@@ -47,6 +47,7 @@ A collection of web development resources.
 - [handlebars](http://handlebarsjs.com)
   
 ## <a id="nodejs"></a>Node.js
+- [PM2](http://pm2.keymetrics.io)
 - [Express](http://expressjs.com)
 - [Passport](http://passportjs.org)
 - [nodemon](https://nodemon.io)
