@@ -4,7 +4,7 @@ A collection of web development resources.
 <h1 align="center">
 	<br>
 	<img width="160px" src="http://www.dennisxiao.com/images/homepage_logo.gif" alt="awesome">💩 .....................
-  <img width="80px" src="http://www.dennisxiao.com/images/homepage_logo.gif" alt="awesome">......... 💩
+  	<img width="80px" src="http://www.dennisxiao.com/images/homepage_logo.gif" alt="awesome">......... 💩
 	<br>
 </h1>
 
@@ -42,11 +42,12 @@ A collection of web development resources.
 
 ## <a id="javascript"></a>Javascript
 [Vue.js](https://vuejs.org) | 
+[EJS](http://www.embeddedjs.com/ "Simple javascript template library") | 
 [Pug](https://pugjs.org/api/getting-started.html "template engine, formmerly known as Jade") | 
 [handlebars](http://handlebarsjs.com) | 
   
 ## <a id="nodejs"></a>Node.js
-[PM2](http://pm2.keymetrics.io "production process manager for Node.js apps") | 
+[PM2](http://pm2.keymetrics.io "Production process manager for Node.js apps") | 
 [Express](http://expressjs.com) ([body-parser](https://github.com/expressjs/body-parser)) | 
 [Passport](http://passportjs.org) | 
 [nodemon](https://nodemon.io) | 
