@@ -20,43 +20,41 @@ A collection of web development resources.
 - [MISC.](#misc)
 
 ## <a id="ide"></a>IDE
-- [Webstorm](https://www.jetbrains.com/webstorm/)
-- [Aptana](http://www.aptana.com)
+[Webstorm](https://www.jetbrains.com/webstorm/) | [Aptana](http://www.aptana.com)
 
 ## <a id="editor"></a>Editor
-- [Notepad++](http://notepad-plus-plus.org)
-- [Sublime Text 3](http://sublimetext.com)
-- [Atom](http://atom.io)
-- [Bracket](http://brackets.io)
-- [Visual Studio Code](https://code.visualstudio.com)
+[Notepad++](http://notepad-plus-plus.org) | 
+[Sublime Text 3](http://sublimetext.com) | 
+[Atom](http://atom.io) | 
+[Bracket](http://brackets.io) | 
+[Visual Studio Code](https://code.visualstudio.com) | 
 
 ## <a id="html"></a>HTML
-- [Bootstrap](http://getbootstrap.com)
-
+[Bootstrap](http://getbootstrap.com) | 
 
 ## <a id="css"></a>CSS
-- [CSSICON](http://cssicon.space)  
-- [Animate.css](https://daneden.github.io/animate.css/)
-- [Normalize.css](https://necolas.github.io/normalize.css/)
-- [SASS](http://sass-lang.com)
-- [LESS](http://lesscss.org)
-- [PostCSS](http://postcss.org)
+[CSSICON](http://cssicon.space) | 
+[Animate.css](https://daneden.github.io/animate.css/) | 
+[Normalize.css](https://necolas.github.io/normalize.css/) | 
+[SASS](http://sass-lang.com) | 
+[LESS](http://lesscss.org) | 
+[PostCSS](http://postcss.org) | 
 
 ## <a id="javascript"></a>Javascript
-- [Vue.js](https://vuejs.org)
-- [Pug](https://pugjs.org/api/getting-started.html) - template engine, formmerly known as Jade
-- [handlebars](http://handlebarsjs.com)
+[Vue.js](https://vuejs.org) | 
+[Pug](https://pugjs.org/api/getting-started.html "template engine, formmerly known as Jade") | 
+[handlebars](http://handlebarsjs.com) | 
   
 ## <a id="nodejs"></a>Node.js
-- [PM2](http://pm2.keymetrics.io) - production process manager for Node.js apps
-- [Express](http://expressjs.com)
-- [Passport](http://passportjs.org)
-- [nodemon](https://nodemon.io)
-- [live-server](http://tapiov.net/live-server/)
+[PM2](http://pm2.keymetrics.io "production process manager for Node.js apps") | 
+[Express](http://expressjs.com) ([body-parser](https://github.com/expressjs/body-parser)) | 
+[Passport](http://passportjs.org) | 
+[nodemon](https://nodemon.io) | 
+[live-server](http://tapiov.net/live-server/) | 
 
 ## <a id="mockup"></a>Mockup
 
 ## <a id="icon"></a>Icon
 
 ## <a id="misc"></a>MISC.
-- [Lorem Ipsum](http://www.lipsum.com)
+[Lorem Ipsum](http://www.lipsum.com) | 
