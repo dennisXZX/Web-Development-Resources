@@ -9,15 +9,7 @@ A collection of web development resources.
 </h1>
 
 ## Contents
-- [IDE](#ide)
-- [Editor](#editor)
-- [HTML](#html)
-- [CSS](#css)
-- [Javascript](#javascript)
-- [Node.js](#nodejs)
-- [Mockup](#mockup)
-- [Icon](#icon)
-- [MISC.](#misc)
+[IDE](#ide) | [Editor](#editor) | [HTML](#html) | [CSS](#css) | [Javascript](#javascript) | [Node.js](#nodejs) | [Mockup](#mockup) | [Icon](#icon) | [MISC.](#misc)
 
 ## <a id="ide"></a>IDE
 [Webstorm](https://www.jetbrains.com/webstorm/) | [Aptana](http://www.aptana.com)
