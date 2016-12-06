@@ -44,14 +44,17 @@ A collection of web development resources.
 
 ## <a id="javascript"></a>Javascript
 - [Vue.js](https://vuejs.org)
+- [Pug](https://pugjs.org/api/getting-started.html), template engine, formmerly known as Jade
 - [handlebars](http://handlebarsjs.com)
   
 ## <a id="nodejs"></a>Node.js
-- [PM2](http://pm2.keymetrics.io)
+- [PM2](http://pm2.keymetrics.io), production process manager for Node.js apps
 - [Express](http://expressjs.com)
 - [Passport](http://passportjs.org)
 - [nodemon](https://nodemon.io)
 - [live-server](http://tapiov.net/live-server/)
+
+## <a id="mockup"></a>Mockup
 
 ## <a id="icon"></a>Icon
 
