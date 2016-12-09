@@ -42,8 +42,8 @@ A collection of web development resources.
 [PM2](http://pm2.keymetrics.io "Production process manager for Node.js apps") | 
 [Express](http://expressjs.com) ([body-parser](https://github.com/expressjs/body-parser)) | 
 [Passport](http://passportjs.org) | 
-[nodemon](https://nodemon.io) | 
-[live-server](http://tapiov.net/live-server/) | 
+[nodemon](https://nodemon.io "Monitor for any changes in your source and automatically restart your server") | 
+[live-server](http://tapiov.net/live-server/ "A simple development http server with live reload capability") | 
 
 ## <a id="mockup"></a>Mockup
 
