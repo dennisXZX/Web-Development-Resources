@@ -12,7 +12,8 @@ A collection of web development resources.
 [IDE](#ide) | [Editor](#editor) | [HTML](#html) | [CSS](#css) | [Javascript](#javascript) | [Node.js](#nodejs) | [Database](#database) | [Testing](#testing) | [Mockup](#mockup) | [Icon](#icon) | [MISC.](#misc)
 
 ## <a id="ide"></a>IDE
-[Webstorm](https://www.jetbrains.com/webstorm/) | [Aptana](http://www.aptana.com)
+[Webstorm](https://www.jetbrains.com/webstorm/) | 
+[Aptana](http://www.aptana.com) | 
 
 ## <a id="editor"></a>Editor
 [Notepad++](http://notepad-plus-plus.org) | 
@@ -56,6 +57,6 @@ A collection of web development resources.
 ## <a id="icon"></a>Icon
 
 ## <a id="misc"></a>MISC.
-[Paletton](http://paletton.com "The color scheme designer")
+[Paletton](http://paletton.com "The color scheme designer") | 
 [Postman](https://www.getpostman.com "A friendly way to construct requests and reading responses") | 
 [Lorem Ipsum](http://www.lipsum.com) | 
