@@ -12,7 +12,7 @@ A collection of web development resources.
 - [IDE](#ide)
 - [Editor](#editor)
 - [HTML](#html)
-- CSS](#css)
+- [CSS](#css)
 - [Javascript](#javascript)
 - [Node.js](#nodejs)
 - [Database](#database)
