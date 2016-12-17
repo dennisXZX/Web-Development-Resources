@@ -52,12 +52,13 @@ A collection of web development resources.
 ## <a id="nodejs"></a>Node.js
 [PM2](http://pm2.keymetrics.io "Production process manager for Node.js apps") | 
 [Express](http://expressjs.com) ([body-parser](https://github.com/expressjs/body-parser)) | 
+[mongoose](http://mongoosejs.com) | 
 [Passport](http://passportjs.org) | 
 [nodemon](https://nodemon.io "Monitor for any changes in your source and automatically restart your server") | 
 [live-server](http://tapiov.net/live-server/ "A simple development http server with live reload capability") | 
 
 ## <a id="database"></a>Database
-[MongoDB](https://www.mongodb.com) ([mongoose](http://mongoosejs.com)) | 
+[MongoDB](https://www.mongodb.com) | 
 [mLab](https://mlab.com "MongoDB hosting") | 
 
 ## <a id="testing"></a>Testing
