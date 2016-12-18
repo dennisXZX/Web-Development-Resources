@@ -71,4 +71,5 @@ A collection of web development resources.
 ## <a id="misc"></a>MISC.
 [Paletton](http://paletton.com "The color scheme designer") | 
 [Postman](https://www.getpostman.com "A friendly way to construct requests and reading responses") | 
+[JSON Generator](http://www.json-generator.com "Generate seed data")
 [Lorem Ipsum](http://www.lipsum.com) | 
