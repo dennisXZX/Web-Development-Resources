@@ -48,6 +48,7 @@ A collection of web development resources.
 [EJS](http://ejs.co/ "Simple javascript template library") | 
 [Pug](https://pugjs.org/api/getting-started.html "template engine, formmerly known as Jade") | 
 [handlebars](http://handlebarsjs.com) | 
+[JQuery](https://jquery.com/) ([JQuery Validation](https://jqueryvalidation.org))
   
 ## <a id="nodejs"></a>Node.js
 [PM2](http://pm2.keymetrics.io "Production process manager for Node.js apps") | 
