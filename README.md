@@ -57,6 +57,7 @@ A collection of web development resources.
 [Passport](http://passportjs.org) | 
 [nodemon](https://nodemon.io "Monitor for any changes in your source and automatically restart your server") | 
 [live-server](http://tapiov.net/live-server/ "A simple development http server with live reload capability") | 
+[node-sass](https://github.com/sass/node-sass) | 
 
 ## <a id="database"></a>Database
 [MongoDB](https://www.mongodb.com) | 
