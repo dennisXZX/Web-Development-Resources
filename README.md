@@ -74,6 +74,7 @@ A collection of web development resources.
 
 ## <a id="color"></a>Color
 [Paletton](http://paletton.com "The color scheme designer") | 
+[Material UI](https://www.materialui.co)
 [0to255](http://www.0to255.com "A simple tool that helps web designers find variations of any color")
 
 ## <a id="misc"></a>MISC.
