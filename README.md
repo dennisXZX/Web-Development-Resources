@@ -19,6 +19,7 @@ A collection of web development resources.
 - [Testing](#testing)
 - [Mockup](#mockup)
 - [Icon](#icon)
+- [Color](#color)
 - [MISC.](#misc)
 
 ## <a id="ide"></a>IDE
@@ -71,8 +72,11 @@ A collection of web development resources.
 
 ## <a id="icon"></a>Icon
 
-## <a id="misc"></a>MISC.
+## <a id="color"></a>Color
 [Paletton](http://paletton.com "The color scheme designer") | 
+[0to255](http://www.0to255.com "A simple tool that helps web designers find variations of any color")
+
+## <a id="misc"></a>MISC.
 [Postman](https://www.getpostman.com "A friendly way to construct requests and reading responses") | 
 [JSON Generator](http://www.json-generator.com "Generate seed data") | 
 [JSONLint](http://jsonlint.com) | 
