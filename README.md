@@ -76,3 +76,4 @@ A collection of web development resources.
 [JSON Generator](http://www.json-generator.com "Generate seed data") | 
 [JSONLint](http://jsonlint.com) | 
 [Lorem Ipsum](http://www.lipsum.com) | 
+[Google Fonts](https://fonts.google.com) | 
