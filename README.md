@@ -47,6 +47,7 @@ A collection of web development resources.
 
 ## <a id="javascript"></a>Javascript
 [Vue.js](https://vuejs.org) | 
+[Modernizr](https://modernizr.com) | 
 [EJS](http://ejs.co/ "Simple javascript template library") | 
 [Pug](https://pugjs.org/api/getting-started.html "template engine, formmerly known as Jade") | 
 [handlebars](http://handlebarsjs.com) | 
