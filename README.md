@@ -38,7 +38,6 @@ A collection of web development resources.
 
 ## <a id="css"></a>CSS
 [CanIUse](http://caniuse.com "Compatibility tables for support of HTML5, CSS3, SVG and other technologies in various browsers.") | 
-[CSSICON](http://cssicon.space) | 
 [Animate.css](https://daneden.github.io/animate.css/) | 
 [Normalize.css](https://necolas.github.io/normalize.css/) | 
 [SASS](http://sass-lang.com) | 
@@ -72,6 +71,7 @@ A collection of web development resources.
 ## <a id="mockup"></a>Mockup
 
 ## <a id="icon"></a>Icon
+[CSSICON](http://cssicon.space) | 
 
 ## <a id="color"></a>Color
 [Paletton](http://paletton.com "The color scheme designer") | 
