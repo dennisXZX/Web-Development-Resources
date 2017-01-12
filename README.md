@@ -64,7 +64,7 @@ A collection of web development resources.
 [live-server](http://tapiov.net/live-server/ "A simple development http server with live reload capability") | 
 [node-sass](https://github.com/sass/node-sass) | 
 
-## <a id-"wordpress"></a>Wordpress
+## <a id="wordpress"></a>Wordpress
 [_s](http://underscores.me/ "A starter theme for Wordpress") | 
 
 ## <a id="database"></a>Database
@@ -82,6 +82,7 @@ A collection of web development resources.
 
 ## <a id="icon"></a>Icon
 [CSSICON](http://cssicon.space) | 
+[Flaticon](http://www.flaticon.com) | 
 
 ## <a id="color"></a>Color
 [Paletton](http://paletton.com "The color scheme designer") | 
