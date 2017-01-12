@@ -53,7 +53,8 @@ A collection of web development resources.
 [EJS](http://ejs.co/ "Simple javascript template library") | 
 [Pug](https://pugjs.org/api/getting-started.html "template engine, formmerly known as Jade") | 
 [handlebars](http://handlebarsjs.com) | 
-[JQuery](https://jquery.com/) ([JQuery Validation](https://jqueryvalidation.org))
+[JQuery](https://jquery.com/) ([JQuery Validation](https://jqueryvalidation.org)) | 
+[Prism](http://prismjs.com/ "syntax highlighter") | 
   
 ## <a id="nodejs"></a>Node.js
 [PM2](http://pm2.keymetrics.io "Production process manager for Node.js apps") | 
@@ -79,10 +80,15 @@ A collection of web development resources.
 [Wappalyzer](https://wappalyzer.com/) | 
 
 ## <a id="mockup"></a>Mockup
+[Axure](http://www.axure.com/) | 
+[Balsamiq Mockups](https://balsamiq.com/products/mockups/) | 
+[Placehold.it](http://placehold.it) | 
+[Pixlr](https://pixlr.com/editor/)
 
 ## <a id="icon"></a>Icon
 [CSSICON](http://cssicon.space) | 
 [Flaticon](http://www.flaticon.com) | 
+[Devicon](http://devicon.fr) | 
 
 ## <a id="color"></a>Color
 [Paletton](http://paletton.com "The color scheme designer") | 
