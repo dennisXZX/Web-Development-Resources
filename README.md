@@ -18,6 +18,7 @@ A collection of web development resources.
 - [Wordpress](#wordpress)
 - [Database](#database)
 - [Testing](#testing)
+- [Chrome Plugin](#plugin)
 - [Mockup](#mockup)
 - [Icon](#icon)
 - [Color](#color)
@@ -72,6 +73,10 @@ A collection of web development resources.
 
 ## <a id="testing"></a>Testing
 [Moncha](https://mochajs.org/)
+
+## <a id="plugin"></a>Chrome Plugin
+[SnappySnippet](https://github.com/kdzwinel/SnappySnippet)
+[Wappalyzer](https://wappalyzer.com/)
 
 ## <a id="mockup"></a>Mockup
 
