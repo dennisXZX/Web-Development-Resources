@@ -65,18 +65,18 @@ A collection of web development resources.
 [node-sass](https://github.com/sass/node-sass) | 
 
 ## <a id-"wordpress"></a>Wordpress
-[_s](http://underscores.me/ "A starter theme for Wordpress")
+[_s](http://underscores.me/ "A starter theme for Wordpress") | 
 
 ## <a id="database"></a>Database
 [MongoDB](https://www.mongodb.com) | 
 [mLab](https://mlab.com "MongoDB hosting") | 
 
 ## <a id="testing"></a>Testing
-[Moncha](https://mochajs.org/)
+[Moncha](https://mochajs.org/) | 
 
 ## <a id="plugin"></a>Chrome Plugin
-[SnappySnippet](https://github.com/kdzwinel/SnappySnippet)
-[Wappalyzer](https://wappalyzer.com/)
+[SnappySnippet](https://github.com/kdzwinel/SnappySnippet) | 
+[Wappalyzer](https://wappalyzer.com/) | 
 
 ## <a id="mockup"></a>Mockup
 
@@ -89,7 +89,7 @@ A collection of web development resources.
 [0to255](http://www.0to255.com "A simple tool that helps web designers find variations of any color") | 
 
 ## <a id="image"></a>Image
-[Unsplash](https://unsplash.com/)
+[Unsplash](https://unsplash.com/) | 
 
 ## <a id="misc"></a>MISC.
 [Postman](https://www.getpostman.com "A friendly way to construct requests and reading responses") | 
