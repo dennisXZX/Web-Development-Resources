@@ -1,13 +1,6 @@
 # Web Development Resources
 A collection of web development resources.
 
-<h1 align="center">
-	<br>
-	<img width="160px" src="http://www.dennisxiao.com/images/homepage_logo.gif" alt="awesome">💩 .....................
-  	<img width="80px" src="http://www.dennisxiao.com/images/homepage_logo.gif" alt="awesome">......... 💩
-	<br>
-</h1>
-
 ## Contents
 - [IDE](#ide)
 - [Editor](#editor)
@@ -99,6 +92,7 @@ A collection of web development resources.
 [Unsplash](https://unsplash.com/) | 
 
 ## <a id="misc"></a>MISC.
+[Regulex](https://jex.im/regulex/ "Javascript Regular Expression Visualizer")
 [Postman](https://www.getpostman.com "A friendly way to construct requests and reading responses") | 
 [JSON Generator](http://www.json-generator.com "Generate seed data") | 
 [JSONLint](http://jsonlint.com) | 
