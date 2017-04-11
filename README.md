@@ -92,7 +92,7 @@ A collection of web development resources.
 [Unsplash](https://unsplash.com/) | 
 
 ## <a id="misc"></a>MISC.
-[Regulex](https://jex.im/regulex/ "Javascript Regular Expression Visualizer")
+[Regulex](https://jex.im/regulex/ "Javascript Regular Expression Visualizer") | 
 [Postman](https://www.getpostman.com "A friendly way to construct requests and reading responses") | 
 [JSON Generator](http://www.json-generator.com "Generate seed data") | 
 [JSONLint](http://jsonlint.com) | 
